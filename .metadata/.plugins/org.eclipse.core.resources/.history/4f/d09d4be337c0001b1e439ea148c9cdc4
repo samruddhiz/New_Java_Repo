@@ -1,0 +1,5 @@
+package com.samz.limitsservice;
+
+public class Configuration {
+
+}

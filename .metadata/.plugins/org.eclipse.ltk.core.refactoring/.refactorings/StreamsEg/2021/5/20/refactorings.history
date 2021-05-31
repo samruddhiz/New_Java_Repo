@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;Streams_eg.java&apos; to &apos;StreamsEg/src/streameg&apos;&#x0D;&#x0A;- Original project: &apos;StreamsEg&apos;&#x0D;&#x0A;- Destination element: &apos;StreamsEg/src/streameg&apos;&#x0D;&#x0A;- Original element: &apos;Streams_eg.java&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move compilation unit" destination="/src&lt;streameg" element1="/src&lt;{Streams_eg.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1620545410268" units="1" version="1.0"/>
+</session>

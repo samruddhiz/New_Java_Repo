@@ -1,0 +1,5 @@
+package com.samz.limitsservice.bean;
+
+public class LimitConfiguration {
+
+}
