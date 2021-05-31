@@ -1,0 +1,2 @@
+module SampleJavaExampleForGit_1 {
+}
